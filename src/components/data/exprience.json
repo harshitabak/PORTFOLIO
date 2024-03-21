@@ -1,0 +1,16 @@
+
+[
+    {
+      "id": 1,
+      "role": "Frontend Developer Trainee  ",
+      "organisation": "FunctionUp",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "location": ",Online Bootcamp ",
+      "experiences": [
+        "Worked on lots of  React.js projects,",
+        "Worked as a Teaching Assistant"
+      ],
+      "imageSrc": "https://media.glassdoor.com/sqll/6744734/functionup-squarelogo-1650538301558.png"
+    }
+]
